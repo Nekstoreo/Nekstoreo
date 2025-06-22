@@ -63,7 +63,11 @@
   <a href="https://instagram.com/Nekstoreo">
     <img src="https://img.shields.io/badge/Instagram-%40Nekstoreo-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  <a href="https://x.com/Nekstoreo">
+    <img src="https://img.shields.io/badge/Twitter-%40Nekstoreo-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  </a>
 </p>
+
 
 ---
 

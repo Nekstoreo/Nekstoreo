@@ -7,9 +7,6 @@
 🎓 Estudiante de Ingeniería de Sistemas e Informática (8vo semestre) — UPB Medellín  
 🚀 Apasionado por backend, arquitectura de software, DevOps, Linux y ciberseguridad  
 
-💡 Trabajo con tecnologías modernas, buenas prácticas arquitectónicas (Clean Architecture), despliegue en la nube y automatización DevOps. Fan del software libre y el pensamiento modular.
-
-📌 Actualmente desarrollando soluciones en ASP.NET Core + React/Next.js sobre PostgreSQL y Azure.
 
 [![Visits Badge](https://komarev.com/ghpvc/?username=Nekstoreo&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Nekstoreo)
 [![Updated Badge](https://img.shields.io/github/last-commit/Nekstoreo/Flappy-Plane-NYC?style=flat-square&logo=github)](https://github.com/Nekstoreo/Flappy-Plane-NYC)
@@ -21,7 +18,7 @@
 
 ### 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,nextjs,postgres,mongodb,docker,azure,vercel,git,linux,redhat,debian,bash,rider,vscode&perline=4" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,js,nextjs,java,postgres,mongodb,docker,azure,aws,git,redhat,debian,bash,rider,vscode&perline=4" alt="Tech Stack" />
 
    </td>
   </tr>

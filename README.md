@@ -2,7 +2,7 @@
   <tr>
     <td valign="top" width="66%">
       
-# 👋 Hola, soy **Néstor “Nekstoreo” Gutiérrez**
+# 👋 Hola, soy **Néstor Gutiérrez**
 
 🎓 Estudiante de Ingeniería de Sistemas e Informática (8vo semestre) — UPB Medellín  
 🚀 Apasionado por backend, arquitectura de software, DevOps, Linux y ciberseguridad  
@@ -44,31 +44,19 @@
 
 ---
 
-## 🎯 Objetivos inmediatos
-
-- Publicar un **proyecto personal** que destaque por su arquitectura robusta.
-- Explorar más a fondo herramientas CLI, arquitectura hexagonal y sistemas distribuidos.
-- Consolidar habilidades en **seguridad informática**, **Linux avanzado** y flujo **DevOps**.
-
----
-
 ## 📬 ¡Conectemos!
 
 <p align="left">
-  <a href="https://github.com/Nekstoreo">
-    <img src="https://img.shields.io/badge/GitHub-%40Nekstoreo-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="mailto:nestorg456k@outlook.com">
-    <img src="https://img.shields.io/badge/Email-nestorg456k%40outlook.com-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
-  </a>
   <a href="https://instagram.com/Nekstoreo">
     <img src="https://img.shields.io/badge/Instagram-%40Nekstoreo-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://x.com/Nekstoreo">
     <img src="https://img.shields.io/badge/Twitter-%40Nekstoreo-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
+  <a href="https://www.linkedin.com/in/nestor-gutierrez-16a994259/">
+    <img src="https://img.shields.io/badge/LinkedIn-Néstor%20Gutiérrez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
-
 
 ---
 

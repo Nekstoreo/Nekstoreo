@@ -38,6 +38,10 @@
 ## 💼 Repositorio destacado
 
 [![Flappy‑Plane‑NYC](https://github-readme-stats.vercel.app/api/pin/?username=Nekstoreo&repo=Flappy-Plane-NYC&show_owner=true&theme=dark)](https://github.com/Nekstoreo/Flappy-Plane-NYC)
+[![Qanban](https://github-readme-stats.vercel.app/api/pin/?username=Nekstoreo&repo=Qanban&show_owner=true&theme=dark)](https://github.com/Nekstoreo/Qanban)
+[![Ponti](https://github-readme-stats.vercel.app/api/pin/?username=Nekstoreo&repo=Ponti&show_owner=true&theme=dark)](https://github.com/Nekstoreo/Ponti)
+[![Mangalith](https://github-readme-stats.vercel.app/api/pin/?username=Nekstoreo&repo=Mangalith&show_owner=true&theme=dark)](https://github.com/Nekstoreo/Mangalith)
+
 ---
 
 ## 🎯 Objetivos inmediatos
